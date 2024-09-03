@@ -1,7 +1,7 @@
 {
-    "name": "suin/phpcs-psr4-sniff",
+    "name": "fabianblum/phpcs-psr4-sniff",
     "type": "phpcodesniffer-standard",
-    "description": "PHP_CodeSniffer sniff that checks class name matches PSR-4 project structure.",
+    "description": "PHP_CodeSniffer sniff that checks class name matches PSR-4 project structure. (PHP 8.3 ready)",
     "keywords": [
         "coding-standards",
         "coding-style",
@@ -23,6 +23,11 @@
 		{
             "name": "B.J.Scharp",
             "homepage": "https://github.com/bitwise-operators",
+            "role": "Developer"
+        },
+        {
+            "name": "Fabian Blum",
+            "homepage": "https://github.com/fabianblum",
             "role": "Developer"
         }
     ],
