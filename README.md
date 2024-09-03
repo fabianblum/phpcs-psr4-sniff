@@ -13,7 +13,7 @@ For ease of migration, the original namespacing has been kept.
 To switch to this package, use the commands
 ```
 composer remove suin/phpcs-psr4-sniff
-composer require bitwise-operators/phpcs-psr4-sniff
+composer require fabianblum/phpcs-psr4-sniff
 ```
 
 ## Demo
